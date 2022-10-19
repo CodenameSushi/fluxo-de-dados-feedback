@@ -54,3 +54,7 @@ Você **não precisa** responder às questões abaixo dentro de seu projeto, mas
 - Provavelmente, se os valores dessa sua nova variável forem `undefined` em algum momento, a sua página vai quebrar. Como você resolveria isso?
 - Já existe um botão estilizado no arquivo styles do componente `FormularioCadastro`, use este botão e aplique uma função de onClick onde, ao clicar, a postagem apareça no espaço à direita da tela
 
+
+foto: https://media-exp1.licdn.com/dms/image/C4E03AQHcbwS5F4HNcw/profile-displayphoto-shrink_200_200/0/1637285641321?e=1671667200&v=beta&t=63BQfa_jOFI-7VYaPeePU2HhQfZnruPrUgybO6VzBIQ
+
+Foto POST: https://picsum.photos/500/300
