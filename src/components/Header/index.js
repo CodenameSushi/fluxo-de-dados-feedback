@@ -1,10 +1,14 @@
-import {TitleHeader} from './styled'
+import { TitleHeader, UserPic, User, Logo } from './styled'
 
-export const Header = () => {
+export const Header = (props) => {
 
-    return(
+
+    return (
         <TitleHeader>
-            Insta4
+            {props.pageFlow === 1 ? (<Logo>Insta4</Logo>) : (<><UserPic src={props.logUserPic} /> <User>{props.logUser}</User>
+                <Logo>Insta4</Logo></>)}
         </TitleHeader>
     )
 }
+
+
